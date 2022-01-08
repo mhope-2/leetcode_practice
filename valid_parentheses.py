@@ -23,7 +23,7 @@ def par_check(symbol_string):
     else:
         return False
 
-print(par_check(""))
+print(par_check("((()))("))
 
 
 
