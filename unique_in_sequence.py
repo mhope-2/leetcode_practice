@@ -1,8 +1,8 @@
 def check_unique(l) -> bool:
     """
     Returns True if all sequence elements are unique and False otherwise
-    param l: List
-    rtype: bool
+    :type l: list
+    :rtype: bool
     """
 
     hashmap = {}
